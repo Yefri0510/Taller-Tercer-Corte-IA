@@ -1,5 +1,5 @@
 # Taller Tercer Corte IA
-* Yefri Stiven Barrero Solano
+* Yefri Stiven Barrero Solano - 2320392
 
 ## Parte 1: Aprendizaje por Refuerzo (Reinforcement Learning - RL)
 
